@@ -1,0 +1,16 @@
+users
+etablissements
+annees_scolaires
+niveaux
+classes
+enseignants
+eleves
+matieres
+evaluations
+notes
+absences
+bulletins
+tranches_scolarite
+paiements
+recus
+relances_impayes
